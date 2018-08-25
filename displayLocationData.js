@@ -1,5 +1,6 @@
-const REGION_DISPLAY = "regionBox";
-const REGION_DATA_DISPLAY = "regionData";
+const REGION_DISPLAY_CLASS = "regionBox";
+const REGION_DATA_DISPLAY_CLASS = "regionData";
+const REGION_IMAGE_CLASS = "regionImage";
 
 const terrainIcons = {
     testTerrainIcon:""
@@ -25,7 +26,7 @@ function displayLocationData(divId, locationData){
     locationData.array.forEach(data => {
 
         const locationDataDiv = document.createElement("div");
-        locationDataDiv.classList.add(REGION_DISPLAY);
+        locationDataDiv.classList.add(REGION_DISPLAY_CLASS);
 
         //Create heading that displays the name of the region.
         const regionHeading = document.createElement("H2");
@@ -34,10 +35,25 @@ function displayLocationData(divId, locationData){
 
         //Create div that displays all the data for the region with the given header.
         const dataDiv = document.createElement("div");
-        divId.classList.add(REGION_DATA_DISPLAY);
+        divId.classList.add(REGION_DATA_DISPLAY_CLASS);
+        
+        //Load image of the region into dataDiv
+        const regionImage = loadImage(regionImage.testRegionImage, REGION_IMAGE_CLASS);
+        dataDiv.appendChild(regionImage);
 
+        const terrains = Object.keys(terrainTypes);
         
 
     });
+
+    function loadImage(imageSrc, className){
+        
+        const imageElement = document.createElement(imageSrc);
+        imageElement.src = imageSrc;
+        imageElement.classList.add(className);
+
+        return imageElement;
+
+    }
 
 }
