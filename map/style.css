@@ -1,8 +1,12 @@
+html, body {
+	margin: 0; height: 100%; overflow: hidden
+}
+
 path:hover{
 	cursor: pointer;
 	fill: #505050;
 }
 
-.nzmap__sector1:hover path{
-	fill: #299000
+path {
+	fill: green;
 }
