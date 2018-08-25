@@ -1,0 +1,8 @@
+path:hover{
+	cursor: pointer;
+	fill: #505050;
+}
+
+.nzmap__sector1:hover path{
+	fill: #299000
+}
