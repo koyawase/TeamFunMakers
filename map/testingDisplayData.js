@@ -12,11 +12,29 @@ regionImages = {
     testRegionImage:""
 }
 
-function displayRegion(regionName) {
-    regionData = get_data(regionName);
 
-    displayLocationData("sideBar", regionData);
+var selectedRegions = [];
+
+function displayRegion(regionName) {
+	// Check if region data is already displayed
+	for(var i=0; i<selectedRegions.length; i++) {
+		if(selectedRegions[i].regionName === regionName) {
+			// Remove region data
+			selectedRegions.splice(i, 1);
+			displayLocationData("sideBar", selectedRegions);
+			return;
+		}
+	}
+	// Add region data for displaying
+    regionData = get_data(regionName);
+	selectedRegions.splice(0, 0, regionData);
+    displayLocationData("sideBar", selectedRegions);
 }
+
+function clearSelectedRegions() {
+	selectedRegions = [];
+}
+
 
 /**
  * Display the given location data in dropdowns in the div with the given ID.
