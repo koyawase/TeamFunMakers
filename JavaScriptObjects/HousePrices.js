@@ -1,4 +1,4 @@
-[
+var priceData = [
 {"Month":"2017-07","Property type":"House","Location":"Auckland","Measure":"Median sale price","Value":"915000","Value Unit":"nzd","Value Label":"NZD","Null Reason":""},
 {"Month":"2017-07","Property type":"House","Location":"Christchurch","Measure":"Median sale price","Value":"445000","Value Unit":"nzd","Value Label":"NZD","Null Reason":""},
 {"Month":"2017-07","Property type":"House","Location":"North Island Metro","Measure":"Median sale price","Value":"538000","Value Unit":"nzd","Value Label":"NZD","Null Reason":""},
