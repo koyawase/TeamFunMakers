@@ -48,13 +48,13 @@ Marlborough,Forest,341779,33
 Marlborough,Grassland/other herbaceous vegetation,418777,40
 Marlborough,Scrub/shrubland,141910,14
 Marlborough,Water bodies,4383,0
-Nelson,Regional Area,42441,100
-Nelson,Urban/bare/lightly-vegetated surfaces,3153,7
-Nelson,Cropland,28,0
-Nelson,Forest,27403,65
-Nelson,Grassland/other herbaceous vegetation,5961,14
-Nelson,Scrub/shrubland,5709,13
-Nelson,Water bodies,187,0
+Nelson-Tasman,Regional Area,1007414,100
+Nelson-Tasman,Urban/bare/lightly-vegetated surfaces,38791,4
+Nelson-Tasman,Cropland,9442,1
+Nelson-Tasman,Forest,678272,67
+Nelson-Tasman,Grassland/other herbaceous vegetation,187981,19
+Nelson-Tasman,Scrub/shrubland,84903,8
+Nelson-Tasman,Water bodies,8117,1
 Northland,Regional Area,1251275,100
 Northland,Urban/bare/lightly-vegetated surfaces,22570,2
 Northland,Cropland,9336,1
@@ -83,13 +83,6 @@ Taranaki,Forest,280006,39
 Taranaki,Grassland/other herbaceous vegetation,392491,54
 Taranaki,Scrub/shrubland,38500,5
 Taranaki,Water bodies,2746,0
-Tasman,Regional Area,964973,100
-Tasman,Urban/bare/lightly-vegetated surfaces,35638,4
-Tasman,Cropland,9414,1
-Tasman,Forest,650869,67
-Tasman,Grassland/other herbaceous vegetation,181930,19
-Tasman,Scrub/shrubland,79194,8
-Tasman,Water bodies,7930,1
 Waikato,Regional Area,2457825,100
 Waikato,Urban/bare/lightly-vegetated surfaces,45020,2
 Waikato,Cropland,18973,1
