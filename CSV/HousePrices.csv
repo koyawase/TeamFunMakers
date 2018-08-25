@@ -1,13 +1,17 @@
-﻿Month,Property type,Location,Measure,Value,Value Unit,Value Label,Null Reason
-2018-06,House,Auckland,Median sale price,909750,nzd,NZD,
-2018-06,House,Christchurch,Median sale price,450000,nzd,NZD,
-2018-06,House,North Island Metro,Median sale price,575000,nzd,NZD,
-2018-06,House,Other,Median sale price,393000,nzd,NZD,
-2018-06,House,South Island Metro,Median sale price,400100,nzd,NZD,
-2018-06,House,Wellington,Median sale price,647500,nzd,NZD,
-2018-06,Apartment,Auckland,Median sale price,655000,nzd,NZD,
-2018-06,Apartment,Christchurch,Median sale price,343000,nzd,NZD,
-2018-06,Apartment,North Island Metro,Median sale price,429000,nzd,NZD,
-2018-06,Apartment,Other,Median sale price,288188.5,nzd,NZD,
-2018-06,Apartment,South Island Metro,Median sale price,230000,nzd,NZD,
-2018-06,Apartment,Wellington,Median sale price,406500,nzd,NZD,
+﻿Region,Value
+Auckland,909750
+Christchurch,450000
+Northland,575000
+Waikato,393000
+Bay of Plenty,400100
+Wellington,647500
+Gisborne,655000
+Hawke's Bay,343000
+Taranaki,429000
+Manawatu-Wanganui,288188.5
+Tasman,230000
+Nelson,406500
+Marlborough,392000
+West Coast,381000
+Otago,425000
+Southland,400000
