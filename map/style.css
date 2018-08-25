@@ -1,0 +1,12 @@
+html, body {
+	margin: 0; height: 100%; overflow: hidden
+}
+
+path:hover{
+	cursor: pointer;
+	fill: #505050;
+}
+
+path {
+	fill: green;
+}
