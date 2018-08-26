@@ -1,0 +1,105 @@
+
+body {
+    background-color: #f8f8f8;
+  }
+  .wrapper {
+    width: 100%;
+
+  }
+  #page-wrapper {
+    padding: 0 15px;
+    min-height: 568px;
+    background-color: white;
+  }
+  .navbar {
+    margin: 0!important;
+}
+
+ 
+  .sidebar {
+    display: block;
+    float: left;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 30px;
+    background: rgb(157, 213, 223);
+    
+  }
+  .content {
+    display: block;
+    overflow: hidden;
+    width: auto;
+  }
+  .sidebar-nav {
+   
+  }
+  .sidebar-nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  .sidebar-nav a, .sidebar-nav a:hover, .sidebar-nav a:focus, .sidebar-nav a:active {
+    outline: none;
+  }
+  .sidebar-nav ul li, .sidebar-nav ul a {
+    display: block;
+  }
+  .sidebar-nav ul a {
+    padding: 10px 20px;
+    color: #aaa;
+    border-top: 1px solid rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.05) inset;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.5);
+  }
+  .sidebar-nav ul a:hover, .sidebar-nav ul a:focus, .sidebar-nav ul a:active {
+    color: #fff;
+    text-decoration: none;
+  }
+  .sidebar-nav ul ul a {
+    padding: 10px 30px;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  .sidebar-nav ul ul a:hover, .sidebar-nav ul ul a:focus, .sidebar-nav ul ul a:active {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  .sidebar-nav-item {
+    padding-left: 5px;
+  }
+  .sidebar-nav-item-icon {
+    padding-right: 5px;
+  }
+  #rtlh3 small {
+      transform: rotateY(180deg);
+      display: inline-block;
+  }
+  
+.container .map .row{
+
+}
+
+path {
+	fill: #80a560;
+	stroke: #000000;
+	opacity: 0.5;
+}
+
+.auckland_nzmap__sector path, .canterbury_nzmap__sector path {
+	fill: #938f85;
+}
+
+.marlborough_nzmap__sector path, .norhtland_nzmap__sector path {
+	fill: #75aea8;
+}
+
+.westcoast_nzmap__sector path, .bayofplenty_nzmap__sector path , .nelsontasman_nzmap__sector path {
+	fill: #205033;
+}
+
+path:hover{
+	cursor: pointer;
+	opacity: 0.7;
+}
+
+.selected{
+	opacity: 1.0;
+}
