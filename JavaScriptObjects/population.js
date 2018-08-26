@@ -1,17 +1,17 @@
-[
-{"164700":"1493200","Northland region":"Auckland region"},
-{"164700":"424600","Northland region":"Waikato region"},
-{"164700":"279700","Northland region":"Bay of Plenty region"},
-{"164700":"47000","Northland region":"Gisborne region"},
-{"164700":"158000","Northland region":"Hawke's Bay region"},
-{"164700":"113600","Northland region":"Taranaki region"},
-{"164700":"231200","Northland region":"Manawatu-Wanganui region"},
-{"164700":"486700","Northland region":"Wellington region"},
-{"164700":"48800","Northland region":"Tasman region"},
-{"164700":"48700","Northland region":"Nelson region"},
-{"164700":"44700","Northland region":"Marlborough region"},
-{"164700":"33000","Northland region":"West Coast region"},
-{"164700":"562900","Northland region":"Canterbury region"},
-{"164700":"208800","Northland region":"Otago region"},
-{"164700":"","Northland region":"Southland region","field3":"96000"}
-]
+var population = [
+    {"Region":"Northland","Population":"164700"},
+    {"Region":"Auckland","Population":"1493200"},
+    {"Region":"Waikato","Population":"424600"},
+    {"Region":"Bay of Plenty","Population":"279700"},
+    {"Region":"Gisborne","Population":"47000"},
+    {"Region":"Hawke's Bay","Population":"158000"},
+    {"Region":"Taranaki","Population":"113600"},
+    {"Region":"Manawatu-Wanganui","Population":"231200"},
+    {"Region":"Wellington","Population":"486700"},
+    {"Region":"Nelson-Tasman","Population":"97580"},
+    {"Region":"Marlborough","Population":"44700"},
+    {"Region":"West Coast","Population":"33000"},
+    {"Region":"Canterbury","Population":"562900"},
+    {"Region":"Otago","Population":"208800"},
+    {"Region":"Southland","Population":"96000"}
+    ]
