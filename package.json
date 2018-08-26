@@ -1,0 +1,23 @@
+{
+  "name": "TeamFunMakers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loadjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koyawase/TeamFunMakers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koyawase/TeamFunMakers/issues"
+  },
+  "homepage": "https://github.com/koyawase/TeamFunMakers#readme",
+  "dependencies": {
+    "metismenu": "^2.7.9"
+  }
+}
