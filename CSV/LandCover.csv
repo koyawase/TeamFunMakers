@@ -1,113 +1,106 @@
-﻿Region 2017,Broad Category,Area 2012 (ha),Area as % of Regional Area 2012 (%)
-Auckland Region,Regional Area,494269,100
-Auckland Region,Urban/bare/lightly-vegetated surfaces,58765,12
-Auckland Region,Cropland,12524,3
-Auckland Region,Forest,132623,27
-Auckland Region,Grassland/other herbaceous vegetation,238045,48
-Auckland Region,Scrub/shrubland,50180,10
-Auckland Region,Water bodies,2130,0
-Bay of Plenty Region,Regional Area,1228044,100
-Bay of Plenty Region,Urban/bare/lightly-vegetated surfaces,19472,2
-Bay of Plenty Region,Cropland,30403,2
-Bay of Plenty Region,Forest,852067,69
-Bay of Plenty Region,Grassland/other herbaceous vegetation,264268,22
-Bay of Plenty Region,Scrub/shrubland,37068,3
-Bay of Plenty Region,Water bodies,24766,2
-Canterbury Region,Regional Area,4520719,100
-Canterbury Region,Urban/bare/lightly-vegetated surfaces,581823,13
-Canterbury Region,Cropland,252905,6
-Canterbury Region,Forest,495336,11
-Canterbury Region,Grassland/other herbaceous vegetation,2714426,60
-Canterbury Region,Scrub/shrubland,381826,8
-Canterbury Region,Water bodies,94403,2
-Gisborne Region,Regional Area,838582,100
-Gisborne Region,Urban/bare/lightly-vegetated surfaces,15671,2
-Gisborne Region,Cropland,16689,2
-Gisborne Region,Forest,363398,43
-Gisborne Region,Grassland/other herbaceous vegetation,355636,42
-Gisborne Region,Scrub/shrubland,84235,10
-Gisborne Region,Water bodies,2953,0
-Hawke's Bay Region,Regional Area,1419130,100
-Hawke's Bay Region,Urban/bare/lightly-vegetated surfaces,17411,1
-Hawke's Bay Region,Cropland,34547,2
-Hawke's Bay Region,Forest,488503,34
-Hawke's Bay Region,Grassland/other herbaceous vegetation,724527,51
-Hawke's Bay Region,Scrub/shrubland,141353,10
-Hawke's Bay Region,Water bodies,12790,1
-Manawatu-Wanganui Region,Regional Area,2222059,100
-Manawatu-Wanganui Region,Urban/bare/lightly-vegetated surfaces,32474,1
-Manawatu-Wanganui Region,Cropland,17737,1
-Manawatu-Wanganui Region,Forest,676136,30
-Manawatu-Wanganui Region,Grassland/other herbaceous vegetation,1320939,59
-Manawatu-Wanganui Region,Scrub/shrubland,164278,7
-Manawatu-Wanganui Region,Water bodies,10495,0
-Marlborough Region,Regional Area,1047044,100
-Marlborough Region,Urban/bare/lightly-vegetated surfaces,107299,10
-Marlborough Region,Cropland,32897,3
-Marlborough Region,Forest,341779,33
-Marlborough Region,Grassland/other herbaceous vegetation,418777,40
-Marlborough Region,Scrub/shrubland,141910,14
-Marlborough Region,Water bodies,4383,0
-Nelson Region,Regional Area,42441,100
-Nelson Region,Urban/bare/lightly-vegetated surfaces,3153,7
-Nelson Region,Cropland,28,0
-Nelson Region,Forest,27403,65
-Nelson Region,Grassland/other herbaceous vegetation,5961,14
-Nelson Region,Scrub/shrubland,5709,13
-Nelson Region,Water bodies,187,0
-Northland Region,Regional Area,1251275,100
-Northland Region,Urban/bare/lightly-vegetated surfaces,22570,2
-Northland Region,Cropland,9336,1
-Northland Region,Forest,458276,37
-Northland Region,Grassland/other herbaceous vegetation,616386,49
-Northland Region,Scrub/shrubland,136410,11
-Northland Region,Water bodies,8297,1
-Otago Region,Regional Area,3190464,100
-Otago Region,Urban/bare/lightly-vegetated surfaces,166163,5
-Otago Region,Cropland,20922,1
-Otago Region,Forest,364170,11
-Otago Region,Grassland/other herbaceous vegetation,2341786,73
-Otago Region,Scrub/shrubland,211527,7
-Otago Region,Water bodies,85896,3
-Southland Region,Regional Area,3184100,100
-Southland Region,Urban/bare/lightly-vegetated surfaces,151396,5
-Southland Region,Cropland,7173,0
-Southland Region,Forest,1325443,42
-Southland Region,Grassland/other herbaceous vegetation,1447247,45
-Southland Region,Scrub/shrubland,165559,5
-Southland Region,Water bodies,87277,3
-Taranaki Region,Regional Area,725439,100
-Taranaki Region,Urban/bare/lightly-vegetated surfaces,9959,1
-Taranaki Region,Cropland,1737,0
-Taranaki Region,Forest,280006,39
-Taranaki Region,Grassland/other herbaceous vegetation,392491,54
-Taranaki Region,Scrub/shrubland,38500,5
-Taranaki Region,Water bodies,2746,0
-Tasman Region,Regional Area,964973,100
-Tasman Region,Urban/bare/lightly-vegetated surfaces,35638,4
-Tasman Region,Cropland,9414,1
-Tasman Region,Forest,650869,67
-Tasman Region,Grassland/other herbaceous vegetation,181930,19
-Tasman Region,Scrub/shrubland,79194,8
-Tasman Region,Water bodies,7930,1
-Waikato Region,Regional Area,2457825,100
-Waikato Region,Urban/bare/lightly-vegetated surfaces,45020,2
-Waikato Region,Cropland,18973,1
-Waikato Region,Forest,854140,35
-Waikato Region,Grassland/other herbaceous vegetation,1331241,54
-Waikato Region,Scrub/shrubland,125238,5
-Waikato Region,Water bodies,83213,3
-Wellington Region,Regional Area,811955,100
-Wellington Region,Urban/bare/lightly-vegetated surfaces,25916,3
-Wellington Region,Cropland,8133,1
-Wellington Region,Forest,295885,36
-Wellington Region,Grassland/other herbaceous vegetation,372644,46
-Wellington Region,Scrub/shrubland,99070,12
-Wellington Region,Water bodies,10309,1
-West Coast Region,Regional Area,2331965,100
-West Coast Region,Urban/bare/lightly-vegetated surfaces,222517,10
-West Coast Region,Cropland,49,0
-West Coast Region,Forest,1493804,64
-West Coast Region,Grassland/other herbaceous vegetation,396522,17
-West Coast Region,Scrub/shrubland,188778,8
-West Coast Region,Water bodies,30295,1
+﻿Region,Category,Area_ha,Percentage
+Auckland,Regional Area,494269,100
+Auckland,Urban/bare/lightly-vegetated surfaces,58765,12
+Auckland,Cropland,12524,3
+Auckland,Forest,132623,27
+Auckland,Grassland/other herbaceous vegetation,238045,48
+Auckland,Scrub/shrubland,50180,10
+Auckland,Water bodies,2130,0
+Bay of Plenty,Regional Area,1228044,100
+Bay of Plenty,Urban/bare/lightly-vegetated surfaces,19472,2
+Bay of Plenty,Cropland,30403,2
+Bay of Plenty,Forest,852067,69
+Bay of Plenty,Grassland/other herbaceous vegetation,264268,22
+Bay of Plenty,Scrub/shrubland,37068,3
+Bay of Plenty,Water bodies,24766,2
+Canterbury,Regional Area,4520719,100
+Canterbury,Urban/bare/lightly-vegetated surfaces,581823,13
+Canterbury,Cropland,252905,6
+Canterbury,Forest,495336,11
+Canterbury,Grassland/other herbaceous vegetation,2714426,60
+Canterbury,Scrub/shrubland,381826,8
+Canterbury,Water bodies,94403,2
+Gisborne,Regional Area,838582,100
+Gisborne,Urban/bare/lightly-vegetated surfaces,15671,2
+Gisborne,Cropland,16689,2
+Gisborne,Forest,363398,43
+Gisborne,Grassland/other herbaceous vegetation,355636,42
+Gisborne,Scrub/shrubland,84235,10
+Gisborne,Water bodies,2953,0
+Hawke's Bay,Regional Area,1419130,100
+Hawke's Bay,Urban/bare/lightly-vegetated surfaces,17411,1
+Hawke's Bay,Cropland,34547,2
+Hawke's Bay,Forest,488503,34
+Hawke's Bay,Grassland/other herbaceous vegetation,724527,51
+Hawke's Bay,Scrub/shrubland,141353,10
+Hawke's Bay,Water bodies,12790,1
+Manawatu-Wanganui,Regional Area,2222059,100
+Manawatu-Wanganui,Urban/bare/lightly-vegetated surfaces,32474,1
+Manawatu-Wanganui,Cropland,17737,1
+Manawatu-Wanganui,Forest,676136,30
+Manawatu-Wanganui,Grassland/other herbaceous vegetation,1320939,59
+Manawatu-Wanganui,Scrub/shrubland,164278,7
+Manawatu-Wanganui,Water bodies,10495,0
+Marlborough,Regional Area,1047044,100
+Marlborough,Urban/bare/lightly-vegetated surfaces,107299,10
+Marlborough,Cropland,32897,3
+Marlborough,Forest,341779,33
+Marlborough,Grassland/other herbaceous vegetation,418777,40
+Marlborough,Scrub/shrubland,141910,14
+Marlborough,Water bodies,4383,0
+Nelson-Tasman,Regional Area,1007414,100
+Nelson-Tasman,Urban/bare/lightly-vegetated surfaces,38791,4
+Nelson-Tasman,Cropland,9442,1
+Nelson-Tasman,Forest,678272,67
+Nelson-Tasman,Grassland/other herbaceous vegetation,187981,19
+Nelson-Tasman,Scrub/shrubland,84903,8
+Nelson-Tasman,Water bodies,8117,1
+Northland,Regional Area,1251275,100
+Northland,Urban/bare/lightly-vegetated surfaces,22570,2
+Northland,Cropland,9336,1
+Northland,Forest,458276,37
+Northland,Grassland/other herbaceous vegetation,616386,49
+Northland,Scrub/shrubland,136410,11
+Northland,Water bodies,8297,1
+Otago,Regional Area,3190464,100
+Otago,Urban/bare/lightly-vegetated surfaces,166163,5
+Otago,Cropland,20922,1
+Otago,Forest,364170,11
+Otago,Grassland/other herbaceous vegetation,2341786,73
+Otago,Scrub/shrubland,211527,7
+Otago,Water bodies,85896,3
+Southland,Regional Area,3184100,100
+Southland,Urban/bare/lightly-vegetated surfaces,151396,5
+Southland,Cropland,7173,0
+Southland,Forest,1325443,42
+Southland,Grassland/other herbaceous vegetation,1447247,45
+Southland,Scrub/shrubland,165559,5
+Southland,Water bodies,87277,3
+Taranaki,Regional Area,725439,100
+Taranaki,Urban/bare/lightly-vegetated surfaces,9959,1
+Taranaki,Cropland,1737,0
+Taranaki,Forest,280006,39
+Taranaki,Grassland/other herbaceous vegetation,392491,54
+Taranaki,Scrub/shrubland,38500,5
+Taranaki,Water bodies,2746,0
+Waikato,Regional Area,2457825,100
+Waikato,Urban/bare/lightly-vegetated surfaces,45020,2
+Waikato,Cropland,18973,1
+Waikato,Forest,854140,35
+Waikato,Grassland/other herbaceous vegetation,1331241,54
+Waikato,Scrub/shrubland,125238,5
+Waikato,Water bodies,83213,3
+Wellington,Regional Area,811955,100
+Wellington,Urban/bare/lightly-vegetated surfaces,25916,3
+Wellington,Cropland,8133,1
+Wellington,Forest,295885,36
+Wellington,Grassland/other herbaceous vegetation,372644,46
+Wellington,Scrub/shrubland,99070,12
+Wellington,Water bodies,10309,1
+West Coast,Regional Area,2331965,100
+West Coast,Urban/bare/lightly-vegetated surfaces,222517,10
+West Coast,Cropland,49,0
+West Coast,Forest,1493804,64
+West Coast,Grassland/other herbaceous vegetation,396522,17
+West Coast,Scrub/shrubland,188778,8
+West Coast,Water bodies,30295,1
