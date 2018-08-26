@@ -7,22 +7,25 @@ function displayLocationData(divId, locationData){
     
     console.log(locationData);
 
+    hideAllRegions();
+
     locationData.forEach(location => {
         
         const regionDiv = document.getElementById(location.regionName);
-        console.log(regionDiv);
-        console.log("Style Before: " + regionDiv.style.display);
-
-        if(regionDiv.style.display === "none"){
-            regionDiv.style.display = "block"
-        }
-        else if(regionDiv.style.display === "block"){
-            regionDiv.style.display = "none";
-        }
-
-        console.log("Style after: " + regionDiv.style.display);
+        regionDiv.style.display = "block";
 
     });
 
 }
+
+function hideAllRegions(){
+
+    const regions = Array.from(document.getElementsByClassName("region"));
+    regions.forEach(reg => {
+        reg.style.display = "none";
+    })
+
+}
+
+
 
