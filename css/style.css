@@ -73,18 +73,33 @@ body {
       display: inline-block;
   }
   
-.container{
+.container .map .row{
 
 }
+
 path {
 	fill: #80a560;
+	stroke: #000000;
+	opacity: 0.5;
 }
 
 .auckland_nzmap__sector path, .canterbury_nzmap__sector path {
 	fill: #938f85;
 }
 
+.marlborough_nzmap__sector path, .norhtland_nzmap__sector path {
+	fill: #75aea8;
+}
+
+.westcoast_nzmap__sector path, .bayofplenty_nzmap__sector path , .nelsontasman_nzmap__sector path {
+	fill: #205033;
+}
+
 path:hover{
 	cursor: pointer;
-	fill: #505050;
+	opacity: 0.7;
+}
+
+.selected{
+	opacity: 1.0;
 }
