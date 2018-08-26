@@ -1,0 +1,19 @@
+html, body {
+	margin: 0; height: 100%; overflow: hidden
+}
+
+
+path {
+	fill: #80a560;
+}
+
+.auckland_nzmap__sector path, .canterbury_nzmap__sector path {
+	fill: #938f85;
+}
+
+
+
+path:hover{
+	cursor: pointer;
+	fill: #505050;
+}
